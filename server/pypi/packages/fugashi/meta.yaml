@@ -1,0 +1,11 @@
+package:
+  name: fugashi
+  version: 1.1.2
+
+requirements:
+  build:
+    - cython 3.0.4
+
+  host:
+    - chaquopy-mecab 1.0
+    - python
