@@ -5,6 +5,7 @@ package:
 requirements:
   build:
     - cython 3.0.4
+    - setuptools_scm 8.0.4
 
   host:
     - chaquopy-mecab 1.0
